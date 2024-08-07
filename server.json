@@ -1,4 +1,95 @@
 {
-  "users": [],
-  "products": []
+  "users": [
+    {
+      "email": "userTesing@gmail.com",
+      "password": "$2a$10$cfdUKCVS7HQY9VLD/H.so.gJWZwRbKuOVBZCo/KdHkIECQc2/wMR.",
+      "firstName": "Sam ",
+      "lastName": "Smith",
+      "entryPassword": "123123123",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Smart T-shirt",
+      "image": "https://s3-alpha-sig.figma.com/img/bb86/a917/f5574021df1f174573a0a15455271318?Expires=1722816000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=B-Z-VTZzHhaC1en-p64hJd0irRguBFKBApLn69Y9S3BlpIXrbGRtu2t5s7UnSIl3TmY6M7-8lWriQKwqPxSEY~3qGB0UPjEiLXT9BLtBYvFPdoK0BpUzDIPoxdAEkrZMaBo0ly3mNZgohT~e0R8aZHC6kSSD9rKskyECTnh1Jx7p6j5ctTYxpLPPhzNFH4w7Aa7oiuMZQwLQvev94VWTSk4RmpiB~UJHyrJWJ0Sq8crTXmfVCqg~ryd0ni8tMypLd0fG2-~bzoklyHHlxtRpO0Wcj4NuTcR8nJuHsFFDf8F53tjdBSo6JtzXFBSa1mu4UrOgxGLMJv0g1r8fAwR3LA__",
+      "price": "40",
+      "color": "white",
+      "size": "s",
+      "inStock": "100",
+      "blurDataURL": "Imh0dHBzOi8vYml6d2ViLmRrdGNkbi5uZXQvdGh1bWIvMTAyNHgxMDI0LzEwMC80MzgvOTI2L3Byb2R1Y3RzLzc4OTQ3ODI1NTQwMjI0MDYwMTU2NjM3NjY3NDc3OS5wbmc/dj0xNjMzNTc3ODg3MzcwIg=="
+    },
+    {
+      "id": "2",
+      "name": "Cool Jacket",
+      "image": "https://s3-alpha-sig.figma.com/img/511f/ebb6/b4f10c49635bb2e9d22e17fb6fa243ff?Expires=1722816000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=lPHat5B8eDReHr5~5ojkKmEU5diCKRlm7sSxEt0OC4OWMjN935Sj9cJiKZENAhE3OW1bnrE9hB0~52dPXJOVSKMmyNT~IFZzeZnFCm3LjgTlHh4rRqG5oA7QlvCbusnF3VMJK3CgTjyybuaQPjzEtmf5JE6h-fy98G5j0PZT10s0g698cw-uidn7ZOJTrYRemSgNAV0E7rAGVSGCEXy~HIJQ8V~uYD4dhsLlMcMddjy5y-PKWMANqkFtc0OkEY3IPbA9BEjcYu75hOVmc57E2MMNWr89Ex0GZVcK84lKXHEeAqCdaYNL5I432mi~LOhQQ5yNTmAStVKlTOrYEKXs6g__",
+      "price": "60",
+      "color": "white",
+      "size": "s",
+      "inStock": "100",
+      "blurDataURL": "Imh0dHBzOi8vYml6d2ViLmRrdGNkbi5uZXQvdGh1bWIvMTAyNHgxMDI0LzEwMC80MzgvOTI2L3Byb2R1Y3RzLzc4OTQ3ODI1NTQwMjI0MDYwMTU2NjM3NjY3NDc3OS5wbmc/dj0xNjMzNTc3ODg3MzcwIg=="
+    },
+    {
+      "id": "3",
+      "name": "Jeen Jacket",
+      "image": "https://s3-alpha-sig.figma.com/img/f8f7/def7/f51a589ae05ac701d8dca0641a8602d7?Expires=1722816000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=b0Ky6LPt~8ZIAp4dY2oG9XTvZPP56KyPFs5dQbz-A~sq5UTwQzEmwas6v3fxSa5sevBS21f90RYwJPaSZR7UEzII7cxafWa9ySHoT9iBzF6c3PRl85aukhMz1Giu~mMMi4xKFmIFp7yIEyl7ZMN97yYps9uc3vWBRBqsgTA5iMbFH7J-y8ZlqBvbpJHZxsu2lLrMhBsYF-5ROsTkPbBEa4RjAHvcrwi8f5NahLTuEWydn5Ie4WeTTl2ljSPLaCigfYoMGnV4RfPOSfnhxVKi9UK6KOoz-esXcPL6RTV4-viajDM~Aka440BtDJRY-Qc0rfkbLV24xa5pVoHQfKtIYA__",
+      "price": "80",
+      "color": "white",
+      "size": "s",
+      "inStock": "100",
+      "blurDataURL": "Imh0dHBzOi8vYml6d2ViLmRrdGNkbi5uZXQvdGh1bWIvMTAyNHgxMDI0LzEwMC80MzgvOTI2L3Byb2R1Y3RzLzc4OTQ3ODI1NTQwMjI0MDYwMTU2NjM3NjY3NDc3OS5wbmc/dj0xNjMzNTc3ODg3MzcwIg=="
+    },
+    {
+      "id": "4",
+      "name": "Jeen Jacket",
+      "image": "https://s3-alpha-sig.figma.com/img/a7c6/3a77/983cac32e022a211f0eef2a6487a1d96?Expires=1722816000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Wu6ZwDzOBZwRbCI1aiW2sy7TGvM6DkF3JnV2cqzvFjNZ~4KnhH27U61IMbV49bQvNtQ8ce3lwY3O9-RMnL17hbHmxUnwxdeIzAIVvy40lnFDoIb7SLyneJ4J1iaSWrGAHzdA0emn8RhHYowBZSHy7QNusIpQ5GdggrbKP81rwz~mkx6Wb1fVfrZ1FDpd9v47jTdjzA0XcaIkDc8mwULgFXKh~DiPFOAeEvgOhzRnuTsqX00jYT4Vk~sRiPro6HGcacwGQ11Z6y76mFLlSbIyOJJBxIzyj5NPY5YVYaykSAkfjvF7lEgXRXRrc8Xa6QEPVrAyX39OqNcYx4mZjUh~lw__",
+      "price": "120",
+      "color": "green",
+      "size": "s",
+      "inStock": "100",
+      "blurDataURL": "Imh0dHBzOi8vYml6d2ViLmRrdGNkbi5uZXQvdGh1bWIvMTAyNHgxMDI0LzEwMC80MzgvOTI2L3Byb2R1Y3RzLzc4OTQ3ODI1NTQwMjI0MDYwMTU2NjM3NjY3NDc3OS5wbmc/dj0xNjMzNTc3ODg3MzcwIg=="
+    },
+    {
+      "id": "5",
+      "name": "Jeen Jacket",
+      "image": "https://s3-alpha-sig.figma.com/img/bb86/a917/f5574021df1f174573a0a15455271318?Expires=1722816000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=B-Z-VTZzHhaC1en-p64hJd0irRguBFKBApLn69Y9S3BlpIXrbGRtu2t5s7UnSIl3TmY6M7-8lWriQKwqPxSEY~3qGB0UPjEiLXT9BLtBYvFPdoK0BpUzDIPoxdAEkrZMaBo0ly3mNZgohT~e0R8aZHC6kSSD9rKskyECTnh1Jx7p6j5ctTYxpLPPhzNFH4w7Aa7oiuMZQwLQvev94VWTSk4RmpiB~UJHyrJWJ0Sq8crTXmfVCqg~ryd0ni8tMypLd0fG2-~bzoklyHHlxtRpO0Wcj4NuTcR8nJuHsFFDf8F53tjdBSo6JtzXFBSa1mu4UrOgxGLMJv0g1r8fAwR3LA__",
+      "price": "140",
+      "color": "green",
+      "size": "m",
+      "inStock": "100",
+      "blurDataURL": "Imh0dHBzOi8vYml6d2ViLmRrdGNkbi5uZXQvdGh1bWIvMTAyNHgxMDI0LzEwMC80MzgvOTI2L3Byb2R1Y3RzLzc4OTQ3ODI1NTQwMjI0MDYwMTU2NjM3NjY3NDc3OS5wbmc/dj0xNjMzNTc3ODg3MzcwIg=="
+    },
+    {
+      "id": "6",
+      "name": "Jeen Jacket",
+      "image": "https://s3-alpha-sig.figma.com/img/511f/ebb6/b4f10c49635bb2e9d22e17fb6fa243ff?Expires=1722816000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=lPHat5B8eDReHr5~5ojkKmEU5diCKRlm7sSxEt0OC4OWMjN935Sj9cJiKZENAhE3OW1bnrE9hB0~52dPXJOVSKMmyNT~IFZzeZnFCm3LjgTlHh4rRqG5oA7QlvCbusnF3VMJK3CgTjyybuaQPjzEtmf5JE6h-fy98G5j0PZT10s0g698cw-uidn7ZOJTrYRemSgNAV0E7rAGVSGCEXy~HIJQ8V~uYD4dhsLlMcMddjy5y-PKWMANqkFtc0OkEY3IPbA9BEjcYu75hOVmc57E2MMNWr89Ex0GZVcK84lKXHEeAqCdaYNL5I432mi~LOhQQ5yNTmAStVKlTOrYEKXs6g__",
+      "price": "160",
+      "color": "black",
+      "size": "l",
+      "inStock": "100",
+      "blurDataURL": "Imh0dHBzOi8vYml6d2ViLmRrdGNkbi5uZXQvdGh1bWIvMTAyNHgxMDI0LzEwMC80MzgvOTI2L3Byb2R1Y3RzLzc4OTQ3ODI1NTQwMjI0MDYwMTU2NjM3NjY3NDc3OS5wbmc/dj0xNjMzNTc3ODg3MzcwIg=="
+    },
+    {
+      "id": "7",
+      "name": "Jeen Jacket",
+      "image": "https://s3-alpha-sig.figma.com/img/f8f7/def7/f51a589ae05ac701d8dca0641a8602d7?Expires=1722816000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=b0Ky6LPt~8ZIAp4dY2oG9XTvZPP56KyPFs5dQbz-A~sq5UTwQzEmwas6v3fxSa5sevBS21f90RYwJPaSZR7UEzII7cxafWa9ySHoT9iBzF6c3PRl85aukhMz1Giu~mMMi4xKFmIFp7yIEyl7ZMN97yYps9uc3vWBRBqsgTA5iMbFH7J-y8ZlqBvbpJHZxsu2lLrMhBsYF-5ROsTkPbBEa4RjAHvcrwi8f5NahLTuEWydn5Ie4WeTTl2ljSPLaCigfYoMGnV4RfPOSfnhxVKi9UK6KOoz-esXcPL6RTV4-viajDM~Aka440BtDJRY-Qc0rfkbLV24xa5pVoHQfKtIYA__",
+      "color": "black",
+      "price": "180",
+      "size": "xl",
+      "inStock": "100",
+      "blurDataURL": "Imh0dHBzOi8vYml6d2ViLmRrdGNkbi5uZXQvdGh1bWIvMTAyNHgxMDI0LzEwMC80MzgvOTI2L3Byb2R1Y3RzLzc4OTQ3ODI1NTQwMjI0MDYwMTU2NjM3NjY3NDc3OS5wbmc/dj0xNjMzNTc3ODg3MzcwIg=="
+    },
+    {
+      "id": "8",
+      "name": "Jeen Jacket",
+      "image": "https://s3-alpha-sig.figma.com/img/f8f7/def7/f51a589ae05ac701d8dca0641a8602d7?Expires=1722816000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=b0Ky6LPt~8ZIAp4dY2oG9XTvZPP56KyPFs5dQbz-A~sq5UTwQzEmwas6v3fxSa5sevBS21f90RYwJPaSZR7UEzII7cxafWa9ySHoT9iBzF6c3PRl85aukhMz1Giu~mMMi4xKFmIFp7yIEyl7ZMN97yYps9uc3vWBRBqsgTA5iMbFH7J-y8ZlqBvbpJHZxsu2lLrMhBsYF-5ROsTkPbBEa4RjAHvcrwi8f5NahLTuEWydn5Ie4WeTTl2ljSPLaCigfYoMGnV4RfPOSfnhxVKi9UK6KOoz-esXcPL6RTV4-viajDM~Aka440BtDJRY-Qc0rfkbLV24xa5pVoHQfKtIYA__",
+      "color": "black",
+      "price": "200",
+      "size": "xl",
+      "inStock": "100",
+      "blurDataURL": "Imh0dHBzOi8vYml6d2ViLmRrdGNkbi5uZXQvdGh1bWIvMTAyNHgxMDI0LzEwMC80MzgvOTI2L3Byb2R1Y3RzLzc4OTQ3ODI1NTQwMjI0MDYwMTU2NjM3NjY3NDc3OS5wbmc/dj0xNjMzNTc3ODg3MzcwIg=="
+    }
+  ],
+  "cart": []
 }
