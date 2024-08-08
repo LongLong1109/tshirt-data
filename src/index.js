@@ -6,7 +6,11 @@ const auth = require("json-server-auth");
 server.db = router.db;
 
 server.use((req, res, next) => {
-  const corsWhitelist = ["http://localhost:3000", "http://localhost:3001"];
+  const corsWhitelist = [
+    "http://localhost:3000",
+    "http://localhost:3001",
+    "https://t-shirts-project.vercel.app",
+  ];
 
   if (corsWhitelist.indexOf(req.headers.origin) !== -1) {
     res.header("Access-Control-Allow-Origin", req.headers.origin);
