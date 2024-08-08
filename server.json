@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "email": "userTesing@gmail.com",
+      "email": "userTesting@gmail.com",
       "password": "$2a$10$cfdUKCVS7HQY9VLD/H.so.gJWZwRbKuOVBZCo/KdHkIECQc2/wMR.",
       "firstName": "Sam ",
       "lastName": "Smith",
@@ -13,7 +13,7 @@
     {
       "id": "1",
       "name": "Smart T-shirt",
-      "image": "https://s3-alpha-sig.figma.com/img/bb86/a917/f5574021df1f174573a0a15455271318?Expires=1722816000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=B-Z-VTZzHhaC1en-p64hJd0irRguBFKBApLn69Y9S3BlpIXrbGRtu2t5s7UnSIl3TmY6M7-8lWriQKwqPxSEY~3qGB0UPjEiLXT9BLtBYvFPdoK0BpUzDIPoxdAEkrZMaBo0ly3mNZgohT~e0R8aZHC6kSSD9rKskyECTnh1Jx7p6j5ctTYxpLPPhzNFH4w7Aa7oiuMZQwLQvev94VWTSk4RmpiB~UJHyrJWJ0Sq8crTXmfVCqg~ryd0ni8tMypLd0fG2-~bzoklyHHlxtRpO0Wcj4NuTcR8nJuHsFFDf8F53tjdBSo6JtzXFBSa1mu4UrOgxGLMJv0g1r8fAwR3LA__",
+      "image": "https://s3-alpha-sig.figma.com/img/bb86/a917/f5574021df1f174573a0a15455271318?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=JXmISlz0Z4sum2R0j-tE~-JoD4bMfoiYlBuXzRY1uYXOTqXdQSgYVl~8TkJOW800F0uTY9TlZMFJfo6dd~VnJ71JxhuOpnzg3JGFSxflMRkERP-ekbyLtWtwmXxrXeQdEiVlQyBKDE-iWgaMWDrjkYyPbAAAlW9aEp2BCk7UIuqYiz3dh7LQTr25UYXuJbNR24bUNVoTGjD6hj2dcsWoNU64yTeJ0lE5HJVmpUfvQIpKD--5Dd1U~LTGR6ejfyMtyqwicwpXe5cr2phugTl7B70GmGBEK4vt-l2I0g~ajLGsG54fkZTSoRPGyW5MofqsHM4uyGjQzvPVt5GC7Coq~Q__",
       "price": "40",
       "color": "white",
       "size": "s",
@@ -23,7 +23,7 @@
     {
       "id": "2",
       "name": "Cool Jacket",
-      "image": "https://s3-alpha-sig.figma.com/img/511f/ebb6/b4f10c49635bb2e9d22e17fb6fa243ff?Expires=1722816000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=lPHat5B8eDReHr5~5ojkKmEU5diCKRlm7sSxEt0OC4OWMjN935Sj9cJiKZENAhE3OW1bnrE9hB0~52dPXJOVSKMmyNT~IFZzeZnFCm3LjgTlHh4rRqG5oA7QlvCbusnF3VMJK3CgTjyybuaQPjzEtmf5JE6h-fy98G5j0PZT10s0g698cw-uidn7ZOJTrYRemSgNAV0E7rAGVSGCEXy~HIJQ8V~uYD4dhsLlMcMddjy5y-PKWMANqkFtc0OkEY3IPbA9BEjcYu75hOVmc57E2MMNWr89Ex0GZVcK84lKXHEeAqCdaYNL5I432mi~LOhQQ5yNTmAStVKlTOrYEKXs6g__",
+      "image": "https://s3-alpha-sig.figma.com/img/511f/ebb6/b4f10c49635bb2e9d22e17fb6fa243ff?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=n6XlWk3uFJPkew0JO-Se1Ijv7evW~YrP4Orh6bsb0hGWvtqHj8R4wIstUc-5JOIScNclpNy9ISev3YYDqiqpyTK748DyhQQK4hHEijYMvVN6qzBfPaRNW7jUXGvWYJkjCDbzxu23YuXqcfmCY0EA~D60SWHzbOku2Q61hXPpOf3VRhAht-8AQlhsLORoNxZFWURP-NT1XZyTrPTTevtA7~u2bsxR4JFVey~8gn4bNOlDoab9s~7CWaWdGJWXrWCiDJkHkPAAD-00NSNizAuzbeaoql68bng7Z5C-IEJTv1TrGb6Waadd5MPw6LVj72FRiUxNL8JdHWPjbpB9FWW4ZQ__",
       "price": "60",
       "color": "white",
       "size": "s",
@@ -32,8 +32,8 @@
     },
     {
       "id": "3",
-      "name": "Jeen Jacket",
-      "image": "https://s3-alpha-sig.figma.com/img/f8f7/def7/f51a589ae05ac701d8dca0641a8602d7?Expires=1722816000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=b0Ky6LPt~8ZIAp4dY2oG9XTvZPP56KyPFs5dQbz-A~sq5UTwQzEmwas6v3fxSa5sevBS21f90RYwJPaSZR7UEzII7cxafWa9ySHoT9iBzF6c3PRl85aukhMz1Giu~mMMi4xKFmIFp7yIEyl7ZMN97yYps9uc3vWBRBqsgTA5iMbFH7J-y8ZlqBvbpJHZxsu2lLrMhBsYF-5ROsTkPbBEa4RjAHvcrwi8f5NahLTuEWydn5Ie4WeTTl2ljSPLaCigfYoMGnV4RfPOSfnhxVKi9UK6KOoz-esXcPL6RTV4-viajDM~Aka440BtDJRY-Qc0rfkbLV24xa5pVoHQfKtIYA__",
+      "name": "Sweeter",
+      "image": "https://s3-alpha-sig.figma.com/img/f8f7/def7/f51a589ae05ac701d8dca0641a8602d7?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bKpwtvezgq~GamY5r9tC7wMDYUlQxPArconsphC3ZQsKAtQfWaSYyDo~5jodQT5xmqy1RqLZkhW0IgCwVw7PFyocoDzI0qhVz6LC10WTKMZNJ-j-Uuo1jPKXDjyVDeZUrFGrEc8FFm8-XwS-WI3N300mr5DdsCo3cgrgM4PCSj6KA6ClYGFdXbRaAV61rp1-ak3Lj8dggxWPaG~H8tF9lUREgXbuA3chru6e4rpqzMa5ELyZoiau05YQxR-CLFPDSdtomDOIbtFvp~7r322Q48CVniSxdE0pEVMagUpFO-OST0BIZN0WY8Crz4~88B0gHUMYIep6xAA4zVLqC~BgaQ__",
       "price": "80",
       "color": "white",
       "size": "s",
@@ -42,8 +42,8 @@
     },
     {
       "id": "4",
-      "name": "Jeen Jacket",
-      "image": "https://s3-alpha-sig.figma.com/img/a7c6/3a77/983cac32e022a211f0eef2a6487a1d96?Expires=1722816000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Wu6ZwDzOBZwRbCI1aiW2sy7TGvM6DkF3JnV2cqzvFjNZ~4KnhH27U61IMbV49bQvNtQ8ce3lwY3O9-RMnL17hbHmxUnwxdeIzAIVvy40lnFDoIb7SLyneJ4J1iaSWrGAHzdA0emn8RhHYowBZSHy7QNusIpQ5GdggrbKP81rwz~mkx6Wb1fVfrZ1FDpd9v47jTdjzA0XcaIkDc8mwULgFXKh~DiPFOAeEvgOhzRnuTsqX00jYT4Vk~sRiPro6HGcacwGQ11Z6y76mFLlSbIyOJJBxIzyj5NPY5YVYaykSAkfjvF7lEgXRXRrc8Xa6QEPVrAyX39OqNcYx4mZjUh~lw__",
+      "name": "Polo Shirt",
+      "image": "https://s3-alpha-sig.figma.com/img/a7c6/3a77/983cac32e022a211f0eef2a6487a1d96?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=izazzEHBDh4fzSsLyRGYOUbwL9kEiqoh2GyOMZUTlbhKvX8v-JLLo9XWYZ1qVN9ZbqBqBs0Eo1KaF7o-YuBYN7FK1C-QG-CHfTBPoBtmxsV0smR6S8fb4a36YxtuPFf189K-1QTy14mQUBSDScTOObZo~XBrdu7izx2ghzre4-YTBjIlBBv5k87RMmQH5cRObbltV1w8du~w44kB1AHSXH5-g1sjAG3ExvaYiQqSx~26fDFQmf8Q1v6IKf6sDwAvoo774qjxmibgUZAMHADLUWzYoSOO4-9Q7NrLk5ant5QaFe70lRGhr0HHBfp0Rdlpnh8-KfjyooAI91uOQN9TAw__",
       "price": "120",
       "color": "green",
       "size": "s",
@@ -52,41 +52,41 @@
     },
     {
       "id": "5",
-      "name": "Jeen Jacket",
-      "image": "https://s3-alpha-sig.figma.com/img/bb86/a917/f5574021df1f174573a0a15455271318?Expires=1722816000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=B-Z-VTZzHhaC1en-p64hJd0irRguBFKBApLn69Y9S3BlpIXrbGRtu2t5s7UnSIl3TmY6M7-8lWriQKwqPxSEY~3qGB0UPjEiLXT9BLtBYvFPdoK0BpUzDIPoxdAEkrZMaBo0ly3mNZgohT~e0R8aZHC6kSSD9rKskyECTnh1Jx7p6j5ctTYxpLPPhzNFH4w7Aa7oiuMZQwLQvev94VWTSk4RmpiB~UJHyrJWJ0Sq8crTXmfVCqg~ryd0ni8tMypLd0fG2-~bzoklyHHlxtRpO0Wcj4NuTcR8nJuHsFFDf8F53tjdBSo6JtzXFBSa1mu4UrOgxGLMJv0g1r8fAwR3LA__",
+      "name": "Smart T-shirt",
+      "image": "https://s3-alpha-sig.figma.com/img/bb86/a917/f5574021df1f174573a0a15455271318?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=JXmISlz0Z4sum2R0j-tE~-JoD4bMfoiYlBuXzRY1uYXOTqXdQSgYVl~8TkJOW800F0uTY9TlZMFJfo6dd~VnJ71JxhuOpnzg3JGFSxflMRkERP-ekbyLtWtwmXxrXeQdEiVlQyBKDE-iWgaMWDrjkYyPbAAAlW9aEp2BCk7UIuqYiz3dh7LQTr25UYXuJbNR24bUNVoTGjD6hj2dcsWoNU64yTeJ0lE5HJVmpUfvQIpKD--5Dd1U~LTGR6ejfyMtyqwicwpXe5cr2phugTl7B70GmGBEK4vt-l2I0g~ajLGsG54fkZTSoRPGyW5MofqsHM4uyGjQzvPVt5GC7Coq~Q__",
       "price": "140",
-      "color": "green",
-      "size": "m",
+      "color": "white",
+      "size": "s",
       "inStock": "100",
       "blurDataURL": "Imh0dHBzOi8vYml6d2ViLmRrdGNkbi5uZXQvdGh1bWIvMTAyNHgxMDI0LzEwMC80MzgvOTI2L3Byb2R1Y3RzLzc4OTQ3ODI1NTQwMjI0MDYwMTU2NjM3NjY3NDc3OS5wbmc/dj0xNjMzNTc3ODg3MzcwIg=="
     },
     {
       "id": "6",
-      "name": "Jeen Jacket",
-      "image": "https://s3-alpha-sig.figma.com/img/511f/ebb6/b4f10c49635bb2e9d22e17fb6fa243ff?Expires=1722816000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=lPHat5B8eDReHr5~5ojkKmEU5diCKRlm7sSxEt0OC4OWMjN935Sj9cJiKZENAhE3OW1bnrE9hB0~52dPXJOVSKMmyNT~IFZzeZnFCm3LjgTlHh4rRqG5oA7QlvCbusnF3VMJK3CgTjyybuaQPjzEtmf5JE6h-fy98G5j0PZT10s0g698cw-uidn7ZOJTrYRemSgNAV0E7rAGVSGCEXy~HIJQ8V~uYD4dhsLlMcMddjy5y-PKWMANqkFtc0OkEY3IPbA9BEjcYu75hOVmc57E2MMNWr89Ex0GZVcK84lKXHEeAqCdaYNL5I432mi~LOhQQ5yNTmAStVKlTOrYEKXs6g__",
+      "name": "Cool Jacket",
+      "image": "https://s3-alpha-sig.figma.com/img/511f/ebb6/b4f10c49635bb2e9d22e17fb6fa243ff?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=n6XlWk3uFJPkew0JO-Se1Ijv7evW~YrP4Orh6bsb0hGWvtqHj8R4wIstUc-5JOIScNclpNy9ISev3YYDqiqpyTK748DyhQQK4hHEijYMvVN6qzBfPaRNW7jUXGvWYJkjCDbzxu23YuXqcfmCY0EA~D60SWHzbOku2Q61hXPpOf3VRhAht-8AQlhsLORoNxZFWURP-NT1XZyTrPTTevtA7~u2bsxR4JFVey~8gn4bNOlDoab9s~7CWaWdGJWXrWCiDJkHkPAAD-00NSNizAuzbeaoql68bng7Z5C-IEJTv1TrGb6Waadd5MPw6LVj72FRiUxNL8JdHWPjbpB9FWW4ZQ__",
       "price": "160",
-      "color": "black",
-      "size": "l",
+      "color": "white",
+      "size": "s",
       "inStock": "100",
       "blurDataURL": "Imh0dHBzOi8vYml6d2ViLmRrdGNkbi5uZXQvdGh1bWIvMTAyNHgxMDI0LzEwMC80MzgvOTI2L3Byb2R1Y3RzLzc4OTQ3ODI1NTQwMjI0MDYwMTU2NjM3NjY3NDc3OS5wbmc/dj0xNjMzNTc3ODg3MzcwIg=="
     },
     {
       "id": "7",
-      "name": "Jeen Jacket",
-      "image": "https://s3-alpha-sig.figma.com/img/f8f7/def7/f51a589ae05ac701d8dca0641a8602d7?Expires=1722816000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=b0Ky6LPt~8ZIAp4dY2oG9XTvZPP56KyPFs5dQbz-A~sq5UTwQzEmwas6v3fxSa5sevBS21f90RYwJPaSZR7UEzII7cxafWa9ySHoT9iBzF6c3PRl85aukhMz1Giu~mMMi4xKFmIFp7yIEyl7ZMN97yYps9uc3vWBRBqsgTA5iMbFH7J-y8ZlqBvbpJHZxsu2lLrMhBsYF-5ROsTkPbBEa4RjAHvcrwi8f5NahLTuEWydn5Ie4WeTTl2ljSPLaCigfYoMGnV4RfPOSfnhxVKi9UK6KOoz-esXcPL6RTV4-viajDM~Aka440BtDJRY-Qc0rfkbLV24xa5pVoHQfKtIYA__",
-      "color": "black",
+      "name": "Sweeter",
+      "image": "https://s3-alpha-sig.figma.com/img/f8f7/def7/f51a589ae05ac701d8dca0641a8602d7?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bKpwtvezgq~GamY5r9tC7wMDYUlQxPArconsphC3ZQsKAtQfWaSYyDo~5jodQT5xmqy1RqLZkhW0IgCwVw7PFyocoDzI0qhVz6LC10WTKMZNJ-j-Uuo1jPKXDjyVDeZUrFGrEc8FFm8-XwS-WI3N300mr5DdsCo3cgrgM4PCSj6KA6ClYGFdXbRaAV61rp1-ak3Lj8dggxWPaG~H8tF9lUREgXbuA3chru6e4rpqzMa5ELyZoiau05YQxR-CLFPDSdtomDOIbtFvp~7r322Q48CVniSxdE0pEVMagUpFO-OST0BIZN0WY8Crz4~88B0gHUMYIep6xAA4zVLqC~BgaQ__",
       "price": "180",
-      "size": "xl",
+      "color": "white",
+      "size": "s",
       "inStock": "100",
       "blurDataURL": "Imh0dHBzOi8vYml6d2ViLmRrdGNkbi5uZXQvdGh1bWIvMTAyNHgxMDI0LzEwMC80MzgvOTI2L3Byb2R1Y3RzLzc4OTQ3ODI1NTQwMjI0MDYwMTU2NjM3NjY3NDc3OS5wbmc/dj0xNjMzNTc3ODg3MzcwIg=="
     },
     {
       "id": "8",
-      "name": "Jeen Jacket",
-      "image": "https://s3-alpha-sig.figma.com/img/f8f7/def7/f51a589ae05ac701d8dca0641a8602d7?Expires=1722816000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=b0Ky6LPt~8ZIAp4dY2oG9XTvZPP56KyPFs5dQbz-A~sq5UTwQzEmwas6v3fxSa5sevBS21f90RYwJPaSZR7UEzII7cxafWa9ySHoT9iBzF6c3PRl85aukhMz1Giu~mMMi4xKFmIFp7yIEyl7ZMN97yYps9uc3vWBRBqsgTA5iMbFH7J-y8ZlqBvbpJHZxsu2lLrMhBsYF-5ROsTkPbBEa4RjAHvcrwi8f5NahLTuEWydn5Ie4WeTTl2ljSPLaCigfYoMGnV4RfPOSfnhxVKi9UK6KOoz-esXcPL6RTV4-viajDM~Aka440BtDJRY-Qc0rfkbLV24xa5pVoHQfKtIYA__",
-      "color": "black",
-      "price": "200",
-      "size": "xl",
+      "name": "Polo Shirt",
+      "image": "https://s3-alpha-sig.figma.com/img/a7c6/3a77/983cac32e022a211f0eef2a6487a1d96?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=izazzEHBDh4fzSsLyRGYOUbwL9kEiqoh2GyOMZUTlbhKvX8v-JLLo9XWYZ1qVN9ZbqBqBs0Eo1KaF7o-YuBYN7FK1C-QG-CHfTBPoBtmxsV0smR6S8fb4a36YxtuPFf189K-1QTy14mQUBSDScTOObZo~XBrdu7izx2ghzre4-YTBjIlBBv5k87RMmQH5cRObbltV1w8du~w44kB1AHSXH5-g1sjAG3ExvaYiQqSx~26fDFQmf8Q1v6IKf6sDwAvoo774qjxmibgUZAMHADLUWzYoSOO4-9Q7NrLk5ant5QaFe70lRGhr0HHBfp0Rdlpnh8-KfjyooAI91uOQN9TAw__",
+      "price": "180",
+      "color": "green",
+      "size": "s",
       "inStock": "100",
       "blurDataURL": "Imh0dHBzOi8vYml6d2ViLmRrdGNkbi5uZXQvdGh1bWIvMTAyNHgxMDI0LzEwMC80MzgvOTI2L3Byb2R1Y3RzLzc4OTQ3ODI1NTQwMjI0MDYwMTU2NjM3NjY3NDc3OS5wbmc/dj0xNjMzNTc3ODg3MzcwIg=="
     }
